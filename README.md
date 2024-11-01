@@ -6,6 +6,7 @@ Developed at Acmegrade, this project focuses on predicting Parkinson’s disease
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Technologies Used](#technologies-used)
@@ -37,6 +38,7 @@ pip install -r requirements.txt
 ## Requirements
 - **Python 3.x**
 - **Libraries**: numpy, pandas, scikit-learn, matplotlib, seaborn, ydata_profiling, jupyter
+  
 ## Usage
 1. Launch the Jupyter notebook:
 ```bash
