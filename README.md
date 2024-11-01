@@ -12,6 +12,7 @@ Developed at Acmegrade, this project focuses on predicting Parkinson’s disease
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#Contact)
 
 ## Project Overview
 The objective of this project is to build a machine learning model to classify if an individual has Parkinson’s disease based on voice measurements. This model is trained to detect patterns in vocal changes that may indicate the presence of Parkinson's disease.
